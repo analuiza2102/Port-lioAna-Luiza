@@ -1,0 +1,17 @@
+.apresentacao-rodape{
+    background-color: #092126;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 24px;
+
+}
+
+.apresentacao-rodape h2{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #D9B6A3;
+}

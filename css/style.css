@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-global{
+    background-color:#324359;
+    line-height: 1.5;
+    color:#D9B6A3 ;
+    height: 100vh;  /*100% da tela*/
+    box-sizing: border-box; ; /*para que o padding e o margin não ultrapassem o tamanho da div*/
+}
+
+.Titulo-destaque{
+    color: #96505B;
+}
+
+.Paragrafo-destaque{
+    color: #96505B;
+}

@@ -1,0 +1,44 @@
+.container-apresentacao {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.apresentacao_conteudo_titulo {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.apresentacao_conteudo_subtitulo {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.sub__experiencia {
+    font-size: 24px;
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    color: #D9B6A3;
+}	
+
+.apresentacao__conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.apresentacao_conteudo_texto {
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.apresentacao_conteudo_subtitulo:last-child {
+    margin-top: 30px;
+}

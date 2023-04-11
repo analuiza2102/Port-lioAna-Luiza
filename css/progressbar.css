@@ -1,0 +1,82 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    
+   
+}
+
+.habilidades_titulo {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.skills h2 {
+    font-size: 24px;
+    color: #D9B6A3;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.progress-bar {
+     margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+    background-color: #D9B6A3;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 10px; /*espaçamento entre as barras*/
+}
+
+.progress {
+    height: 100%;
+    background-color: #96505B;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.progress-html {
+    width: 100%;
+}
+
+.progress-css {
+    width: 100%;
+}
+
+.progress-js {
+    width: 60%;
+}
+
+.progress-bootstrap {
+    width: 85%;
+}
+
+.progress-react {
+    width: 35%;
+}
+
+.progress-figma {
+    width: 90%;
+}
+
+.progress-git {
+    width: 85%;
+}
+
+.progress-github {
+    width: 90%;
+}
+
+.progress-acessibilidade {
+    width: 98%;
+}

@@ -1,0 +1,34 @@
+.cabecalho{
+    background-color: #182e47;
+    padding: 2% 0 0 15%; /* top right bottom left */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-between;
+    
+
+
+    
+}
+
+
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #D9B6A3;
+    text-decoration: none;
+    margin: 5%;
+}
+
+.cabecalho__menu__link:hover {
+    color: #bbbcbe;
+    text-decoration: underline;
+}
+
+.navegacao__menu{
+    display: flex;
+    gap: 80px;
+    
+}
+
