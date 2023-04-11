@@ -1,6 +1,9 @@
 # Codechela-seman1
 Front-end Alura
-Por enquanto esta apenas para computador;
+Responsivo -- 
+
+
+Link do esboço no figma --
 https://www.figma.com/file/emekCPFeAvDDGsdC9Ga7Q3/Portfolio-Projeto-2-(Copy)?node-id=0%3A1&t=z5kR0XpyAdCFt9sg-1
 
 
