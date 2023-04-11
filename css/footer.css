@@ -15,3 +15,14 @@
     font-weight: 400;
     color: #D9B6A3;
 }
+
+
+@media (max-width: 768px) {
+    .apresentacao-rodape {
+        padding: 16px; /* Reduzir o padding para dispositivos menores */
+    }
+
+    .apresentacao-rodape h2 {
+        font-size: 18px; /* Reduzir o tamanho da fonte para dispositivos menores */
+    }
+}

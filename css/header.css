@@ -32,3 +32,20 @@
     
 }
 
+
+/* Media query para dispositivos de largura de tela menor */
+@media (max-width: 768px) {
+    .cabecalho {
+        padding: 2% 0; /* Remover o padding à esquerda para dispositivos menores */
+        flex-direction: column; /* Alterar a direção do flex para coluna */
+        align-items: center; /* Centralizar os itens verticalmente */
+    }
+
+    .cabecalho__menu__link {
+        margin: 2% 0; /* Reduzir a margem vertical entre os links do menu */
+    }
+
+    .navegacao__menu {
+        gap: 16px; /* Reduzir o espaço entre os itens do menu */
+    }
+}

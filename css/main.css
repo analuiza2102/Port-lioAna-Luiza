@@ -2,11 +2,13 @@
     display: flex;  /*flexbox para alinhar os itens na horizontal*/
     align-items: center; /*alinha os itens na vertical*/
     justify-content: space-between; /*espaçamento entre os itens*/
+    flex-wrap: wrap;
     padding: 5% 15%; /*margem de 10% do topo e 15% dos lados*/
   }
 
   .apresentacao__conteudo{
-    width: 615px;
+    width: 100%;
+    max-width: 615px;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -51,7 +53,8 @@
     display: flex;
     justify-content: center;
     gap: 32px; /*espaçamento entre os itens*/
-    width: 381px;
+    width: 100%;
+    max-width: 381px;
     border-radius: 8px;
     text-align: center;
     text-decoration: none;
@@ -72,4 +75,18 @@
     color: #D9B6A3;
     
     transition: 0.5s;
+}
+
+
+/* Media query para dispositivos de largura de tela menor */
+@media (max-width: 768px) {
+  .botoes__apresentacao {
+      gap: 16px; /* Reduzir o espaço entre os botões */
+      padding: 0 16px; /* Reduzir o padding horizontal dos botões */
+  }
+
+  .apresentacao___botao {
+      max-width: 100%; /* Remover a largura máxima dos botões para ocupar toda a largura do container */
+      margin-right: 0; /* Remover a margem direita dos botões */
+  }
 }

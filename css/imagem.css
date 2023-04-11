@@ -5,3 +5,12 @@
     box-shadow: 0 0 10px 0 rgba(212, 174, 174, 0.5);
 }
 
+/* Estilos responsivos para dispositivos móveis */
+@media screen and (max-width: 768px) {
+    .imagem-principal {
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+        margin: 5px;
+    }
+}
