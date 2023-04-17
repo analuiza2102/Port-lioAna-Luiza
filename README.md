@@ -37,4 +37,4 @@ Nome: Projeto - Portfólio.
 ![image](![testeMobile-](https://user-images.githubusercontent.com/103043108/232449729-907bbfb0-0b83-43c0-b5c1-b367f40ec7d2.png#vitrinedev)
 ![image](![mobile-part2](https://user-images.githubusercontent.com/103043108/232450224-499ceb88-04c7-458e-a62f-17e2a7a32eb6.png)#vitrinedev)
 
-![Uploading image.png…]()
+
