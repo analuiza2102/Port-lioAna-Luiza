@@ -29,7 +29,7 @@ Nome: Projeto - Portfólio.
 
 
 
-![image](![analuiza2102 github io_Codechela-seman1_ imgatualizada](https://user-images.githubusercontent.com/103043108/232449487-26cb44c4-3cfe-44e3-b6a9-11323e5aba1c.png#vitrinedev)
+![analuiza2102 github io_Codechela-seman1_ imgatualizada](https://user-images.githubusercontent.com/103043108/232449487-26cb44c4-3cfe-44e3-b6a9-11323e5aba1c.png#vitrinedev)
 ![Codechelaseman1-imggithub](https://user-images.githubusercontent.com/103043108/232450004-35184229-1082-4f7a-8040-6e0921dba22e.png#vitrinedev)
 
 
