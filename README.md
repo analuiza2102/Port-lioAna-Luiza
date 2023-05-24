@@ -11,7 +11,7 @@ https://www.figma.com/file/emekCPFeAvDDGsdC9Ga7Q3/Portfolio-Projeto-2-(Copy)?nod
 | -------------  | --- |
 | :sparkles: Nome        | *Codechela-semana1 - Portólio**
 | :label: Tecnologias | HTML e Css(tecnologias utilizadas)
-| :rocket: URL         |[analuiza2102.github.io/Codechela-seman1/)
+| :rocket: URL         |[https://analuiza2102.github.io/Port-lioAna-Luiza/)
 | :fire: Desafio     |[https://cursos.alura.com.br/codechella-semana-1-monicahillman-1673444925008-p514254)
 
 
