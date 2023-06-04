@@ -5,9 +5,9 @@ Front-end Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | *Conversor de números romanos*
+| :sparkles: Nome        |  *Portfolio - *
 | :label: Tecnologias | HTML e Css(tecnologias utilizadas)
-| :rocket: URL         |[https://analuiza2102.github.io/Conversor-numeroromano-arabico/)
+| :rocket: URL         |[https://analuiza2102.github.io/Port-lioAna-Luiza/)
 
 
 
@@ -15,17 +15,11 @@ Front-end Alura
 
 # Descrição
 
-A sua tarefa será fazer um conversor de números romanos para arábicos e vice-versa.
-Para a tarefa, considerar apenas números inteiros positivos entre 1 e 3999.
+Portfolio curriculum
+
+Responsivo
+
+![WhatsApp Image 2023-06-04 at 15 11 13](https://github.com/analuiza2102/Port-lioAna-Luiza/assets/103043108/daa6dd5f-d766-4edd-80de-9d5799f2e63c)
 
 
-
-
-![conv](https://github.com/analuiza2102/Port-lioAna-Luiza/assets/103043108/9af9ea79-302a-4e45-ad23-399dc91ea8e4)
-
-
-
-
-![convcel](https://github.com/analuiza2102/Port-lioAna-Luiza/assets/103043108/d9aba5d2-819b-4383-8d59-913f5f341e2f)
-
-
+![portfo](https://github.com/analuiza2102/Port-lioAna-Luiza/assets/103043108/8ebbb506-3810-4a33-b757-500a576ed9b2)
